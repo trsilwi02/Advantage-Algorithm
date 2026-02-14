@@ -1,0 +1,35 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++: g++ build and debug active file",
+      "type": "cppdbg",
+      "request": "launch",
+      // 1. SỬA LỖI "program":
+      // Tự động trỏ đến tệp .exe được tạo ra,
+      // nằm cùng thư mục với tệp .cpp của bạn.
+      "program": "${fileDirname}/${fileBasenameNoExtension}.exe",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "${fileDirname}",
+      "environment": [],
+      "externalConsole": false,
+      "MIMode": "gdb",
+      // 2. SỬA LỖI "miDebuggerPath":
+      // THAY THẾ đường dẫn này bằng đường dẫn gdb.exe THỰC TẾ của bạn.
+      // Ví dụ: "C:/mingw64/bin/gdb.exe"
+      "miDebuggerPath": "C:/mingw64/bin/gdb.exe",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ],
+      // 3. THÊM TÁC VỤ BUILD:
+      // Tác vụ này sẽ tự động chạy (build) tệp C++ của bạn
+      // trước khi khởi chạy trình gỡ lỗi.
+      "preLaunchTask": "C/C++: g++.exe build active file"
+    }
+  ]
+}

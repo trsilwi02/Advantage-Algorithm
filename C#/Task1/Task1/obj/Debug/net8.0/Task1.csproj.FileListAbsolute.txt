@@ -1,0 +1,14 @@
+D:\HUSTCode\C#\Task1\Task1\bin\Debug\net8.0\Task1.exe
+D:\HUSTCode\C#\Task1\Task1\bin\Debug\net8.0\Task1.deps.json
+D:\HUSTCode\C#\Task1\Task1\bin\Debug\net8.0\Task1.runtimeconfig.json
+D:\HUSTCode\C#\Task1\Task1\bin\Debug\net8.0\Task1.dll
+D:\HUSTCode\C#\Task1\Task1\bin\Debug\net8.0\Task1.pdb
+D:\HUSTCode\C#\Task1\Task1\obj\Debug\net8.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\HUSTCode\C#\Task1\Task1\obj\Debug\net8.0\Task1.AssemblyInfoInputs.cache
+D:\HUSTCode\C#\Task1\Task1\obj\Debug\net8.0\Task1.AssemblyInfo.cs
+D:\HUSTCode\C#\Task1\Task1\obj\Debug\net8.0\Task1.csproj.CoreCompileInputs.cache
+D:\HUSTCode\C#\Task1\Task1\obj\Debug\net8.0\Task1.dll
+D:\HUSTCode\C#\Task1\Task1\obj\Debug\net8.0\refint\Task1.dll
+D:\HUSTCode\C#\Task1\Task1\obj\Debug\net8.0\Task1.pdb
+D:\HUSTCode\C#\Task1\Task1\obj\Debug\net8.0\Task1.genruntimeconfig.cache
+D:\HUSTCode\C#\Task1\Task1\obj\Debug\net8.0\ref\Task1.dll
